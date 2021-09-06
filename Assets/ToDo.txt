@@ -1,0 +1,15 @@
+1. Smoothen Walking ////
+	1.1 Sliding fix  ////
+2. Jump/Fall animation ////
+	2.1 Front face animation ////
+	2.2 Side face animation ////
+3. Draw John ////
+4. Draw Seraphim ////
+5. Finish Bus cutscene ////
+6. Don't walk while dialogue ////
+7. Death ////
+8. Menu Screen ////
+9. Die screen ////
+10. Make Puff sound ////
+11. Wings sound ////
+12. Scene 2/3 music  ////
